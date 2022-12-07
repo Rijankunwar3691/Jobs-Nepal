@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497143752833",
+    "project_id": "jobs-nepal-c3a94",
+    "storage_bucket": "jobs-nepal-c3a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497143752833:android:c846606b062acbc5fe4580",
+        "android_client_info": {
+          "package_name": "com.example.jobsnepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497143752833-ub8oek0q44p6nlovlt69jnihiop7105m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jobsnepal",
+            "certificate_hash": "5b16706cb5d88c46c7e755c9c63faf10769a479a"
+          }
+        },
+        {
+          "client_id": "497143752833-0a1qii46itcc5qe47colmg9d0fog492c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwRf--TiNq7qWkOg4bNz3v6t5nqL_hqhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497143752833-0a1qii46itcc5qe47colmg9d0fog492c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
